@@ -1,11 +1,11 @@
 Package: FirearmSuicides
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Firearm Suicide Rates in the U.S.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Mider Thao
+Description: An analysis of firearm suicide rates in the U.S. between the year 2010 - 2020.
+    Compare suicide rates with and without the use of firearms and those who were gun owners.
+    Compare the estimated firearm sales by year and state. 
+License: N/A
 Encoding: UTF-8
 LazyData: true
