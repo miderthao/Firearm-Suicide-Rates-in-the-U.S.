@@ -1,4 +1,3 @@
-
 # Firearm Suicide Rates in the U.S.
 
 This project aims to investigate the firearm suicide rates in the United States during the period between 2010 and 2020. The study includes analyzing the differences in suicide rates with and without the use of firearms, studying the rates of gun owners who committed suicide, and estimating the sales of firearms during the specified timeframe.
@@ -45,11 +44,7 @@ Costa, W. (2023). U.S. Firearm Suicide Rates, 1949-2020. https://www.kaggle.com/
 
 Singer-Vine, J. (n.d.). NICS Firearm Background Checks. Github. https://github.com/BuzzFeedNews/nics-firearm-background-checks
 
-
 ## Contact
 
 Mider Thao - miderthao@gmail.com - www.linkedin.com/in/miderthao
-
-
-
 Project Link - 
