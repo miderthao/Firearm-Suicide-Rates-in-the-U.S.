@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: nics-firearm-background-checks
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - {}
+  - given-names: 'Jeremy Singer-Vine '
+    affiliation: BuzzFeedNews
+repository-code: >-
+  https://github.com/BuzzFeedNews/nics-firearm-background-checks
+abstract: >-
+  The NICS background checks data utilized by BuzzFeed News
+  has been procured from the FBI NICS background checks,
+  which are subject to monthly updates. 
+license: MIT
