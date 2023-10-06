@@ -53,4 +53,3 @@ Singer-Vine, J. (n.d.). NICS Firearm Background Checks. Github. https://github.c
 ## Contact
 
 Mider Thao - miderthao@gmail.com - www.linkedin.com/in/miderthao
-Project Link - 
