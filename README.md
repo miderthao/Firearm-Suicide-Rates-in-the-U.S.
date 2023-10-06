@@ -17,9 +17,9 @@ This project aims to investigate the firearm suicide rates in the United States 
 
 ## Charts
 
-See [Tableau](https://public.tableau.com/views/FirearmSuicidebyState/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) to view my interactive charts. 
+See [Tableau](https://public.tableau.com/views/FirearmSuicidebyState/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) to view my interactive dashboard. 
 
-![Sheet 2](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/435bfd93-d37d-4cbf-a27b-d4a289e69d17)
+![Sheet 2](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/5dcda5c4-b929-4bd5-ba87-654e4ad122f3)
 
 The percentage in each state are calculated by firearm suicide / total suicides. 
 
@@ -30,14 +30,20 @@ The percentage in each state are calculated by firearm suicide / total suicides.
 
 ![Sheet 4](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/193b4be9-3f39-40d1-aea2-4ca622eb398f)
 
-According to the data provided, the number of individuals who own guns increased by 43% between 2010 and 2020. Additionally, the percentage of firearm-related suicides among gun owners has increased from 0.2% to 1.8% over the course of a decade.
+According to the data shown above, the number of individuals who own guns increased by 43% between 2010 and 2020. Additionally, the percentage of firearm-related suicides among gun owners has increased from 0.2% to 1.8% over the course of a decade.
 
 ![Sheet 9](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/53aa460a-0f63-4fec-bfe4-128b8c86563b)
+
+The firearm sales are an estimation according to NICS background checks. See references to view the original data. 
 
 #### Top 3 states with high firearm sales:
 - Texas (12,540,588)
 - Florida (10,144,901)
 - California (9,654,688)
+
+## Conclusion 
+Based on the research findings, firearms were the primary weapon used for suicide between 2010 and 2020. Despite a significant increase in gun ownership and firearm sales during this period, it was evident that legal gun owners did not contribute significantly to the high percentage of firearm suicides in the United States. However, it remains unclear how non-legal gun owners manage to obtain firearms for committing suicide.
+
 ## References
 
 Costa, W. (2023). U.S. Firearm Suicide Rates, 1949-2020. https://www.kaggle.com/datasets/williecosta/firearm-suicide-rates-1949-2020
