@@ -5,13 +5,13 @@ This project aims to investigate the firearm suicide rates in the United States 
 
 ## Data Process
 
-- Dataset for number of gun owners was collected from BuzzFeed News Github.
+The dataset for the number of gun owners was collected from BuzzFeed News Github.
 - Collected information on suicide rates using a firearm through a Kaggle dataset. 
-- See references section to see orginal datasets. 
+- See the references section to see the original datasets. 
 
 #### How was the data used?
 
-- Background checks were used for number of gun owners. 
+- Background checks were used for the number of gun owners. 
 - Sales were estimated by background checks for each firearm type. 
 - Long gun, handgun, and other = 1 sale; multiple = 2 sales. 
 
@@ -30,7 +30,7 @@ The percentage in each state are calculated by firearm suicide / total suicides.
 
 ![Sheet 4](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/193b4be9-3f39-40d1-aea2-4ca622eb398f)
 
-According to the data shown above, the number of individuals who own guns increased by 43% between 2010 and 2020. Additionally, the percentage of firearm-related suicides among gun owners has increased from 0.2% to 1.8% over the course of a decade.
+According to the data above, the number of individuals who own guns increased by 43% between 2010 and 2020. Additionally, the percentage of firearm-related suicides among gun owners has increased from 0.2% to 1.8% over the course of a decade.
 
 ![Sheet 9](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/53aa460a-0f63-4fec-bfe4-128b8c86563b)
 
@@ -42,7 +42,7 @@ The firearm sales are an estimation according to NICS background checks. See ref
 - California (9,654,688)
 
 ## Conclusion 
-Based on the research findings, firearms were the primary weapon used for suicide between 2010 and 2020. Despite a significant increase in gun ownership and firearm sales during this period, it was evident that legal gun owners did not contribute significantly to the high percentage of firearm suicides in the United States. However, it remains unclear how non-legal gun owners manage to obtain firearms for committing suicide.
+Based on the research findings, firearms were the primary weapon used for suicide between 2010 and 2020. Despite a significant increase in gun ownership and firearm sales during this period, it was evident that legal gun owners did not contribute significantly to the high percentage of firearm suicides in the United States. However, it remains unclear how non-legal gun owners obtain firearms for suicide.
 
 ## References
 
