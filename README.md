@@ -20,20 +20,21 @@ The dataset for the number of gun owners was collected from BuzzFeed News Github
 See [Tableau](https://public.tableau.com/views/FirearmSuicidebyState/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) to view my interactive dashboard. 
 
 
-![Sheet 2](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/c8b46b22-f918-4310-95a1-22b17661c7fe)
+![Sheet 2 (1)](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/9d4d971b-9354-4968-9e01-341dcce638bf)
 
-The percentage in each state are calculated by firearm suicide / total suicides. 
+
+The percentage in each state is calculated by firearm suicide / total suicides. 
 
 #### The top 3 states with the highest firearm suicides are:
 - Wyoming (70%) - Gun owners (.02%)
 - Mississippi (69%) - Gun owners (.15%)
 - Alabama (68%) - Gun owners (.15%) 
 
-![Sheet 4](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/04358477-486b-4abe-b89a-5854f2ce4718)
+![Sheet 4 (1)](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/c643af69-aee6-4025-aa53-1df46b1a62c5)
 
 According to the data above, the number of individuals who own guns increased by 43% between 2010 and 2020. Additionally, the percentage of firearm-related suicides among gun owners has increased from 0.2% to 1.8% over the course of a decade.
 
-![Sheet 9](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/c9f276c9-873d-49cc-9c48-92db1f643965)
+![Sheet 9 (1)](https://github.com/miderthao/Firearm-Suicide-Rates-in-the-U.S./assets/146670109/95346deb-1cc3-431a-a6bc-e731814b1843)
 
 The firearm sales are an estimation according to NICS background checks. See references to view the original data. 
 
